@@ -1,0 +1,36 @@
+{
+ "at": "2026-11-12T22:02:27Z",
+ "chain": "base",
+ "chain_id": 8453,
+ "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+ "code_size": 1852,
+ "code_sha256": "98d785fcb1bf847f287adc2310759fd94cc13e754b974bc72131382e8266f607",
+ "sourcify_match": {
+  "match": "exact_match",
+  "creationMatch": "exact_match",
+  "runtimeMatch": "exact_match",
+  "matchId": "1839631",
+  "chainId": "8453",
+  "address": "0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913",
+  "verifiedAt": "2024-08-08T13:59:29Z"
+ },
+ "sourcify_details": {
+  "compiler": "0.6.12+commit.27d51765",
+  "language": "Solidity",
+  "sources": 5,
+  "optimizer": {
+   "enabled": true,
+   "runs": 10000000
+  },
+  "match": "exact_match",
+  "verified_at": "2024-08-08T13:59:29Z",
+  "match_id": "1839631"
+ },
+ "proxy": {},
+ "implementation_info": null,
+ "links": {
+  "basescan": "https://basescan.org/address/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913#code",
+  "sourcify": "https://sourcify.dev/#/lookup/0x833589fCD6eDb6E08f4c7C32D4f71b54bdA02913"
+ },
+ "error": null
+}
